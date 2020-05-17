@@ -6,4 +6,5 @@ Our project is a fairly simple attempt to achieve the goal of office automation.
 
 
 For furthur details vistit.
+https://github.com/malpanivedant/Cloud-Based-Office-Automation/blob/master/Cloud-Based%20Office%20Automation.pdf
 
